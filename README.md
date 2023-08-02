@@ -1,1 +1,1 @@
-Project with using sql connector
+Project with usage sql connector
